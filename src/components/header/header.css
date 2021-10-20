@@ -1,0 +1,16 @@
+.header-container {
+  align-items: center;
+  background-color: #d56f3e;
+  display: flex;
+  font-size: 1.5rem;
+  height: 10vh;
+  justify-content: space-around;
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.btn-Search-bar {
+  background-color: #d56f3e;
+  border: none;
+  padding: 0.5rem;
+}
