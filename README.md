@@ -10,6 +10,8 @@ Nele é possível ver, buscar, filtrar, favoritar e acompanhar o processo de pre
 A base de dados vêm de 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis.
+
+
 A aplicação encontra-se em produção no link:  [App de Receitas](https://appdereceitas-react.herokuapp.com/)
 
 ---
@@ -37,7 +39,9 @@ A aplicação encontra-se em produção no link:  [App de Receitas](https://appd
 
 ## 1 Faça o clone do repositório ##
 ```
-git clone git@github.com:alexandremolive/project-recipes-app-react.git
+git clone git@github.com:alexandremolive/project-apprecipes-react.git
+cd project-apprecipes-react
+
 ```
 
 ## 2 Execute os comandos abaixo ##
